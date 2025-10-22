@@ -1,0 +1,6 @@
+I am teaching python fundamentals in my data science course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"sample5","number":"5","start":369.0,"end":371.0,"text":" I will tell you what is table tag."},{"title":"sample2","number":"2","start":1346.2,"end":1346.88,"text":" In this course"},{"title":"sample1","number":"1","start":1581.08,"end":1583.08,"text":" How we will learn this course."},{"title":"sample3","number":"3","start":382.92,"end":384.92,"text":" We will talk about this in the course."},{"title":"sample5","number":"5","start":422.0,"end":424.0,"text":" Here you see table tag is used."}]
+---------------------------------
+"Where is main tag taught in this course"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
